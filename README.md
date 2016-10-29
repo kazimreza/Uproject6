@@ -1,7 +1,7 @@
 ## Website Performance Optimization portfolio project
 
 -- ************* --
-Projrct can be viewed at https://cdn.rawgit.com/kazimreza/Project6/master/index.html
+Projrct can be viewed at https://cdn.rawgit.com/kazimreza/Uproject6/master/index.html
 OR
 https://cdn.rawgit.com/kazimreza/Pizzeria/master/pizza.html
 -- ************* --
